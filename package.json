@@ -1,0 +1,14 @@
+{
+  "name": "express-hello-world",
+  "version": "0.0.1",
+  "description": "Express Hello World app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martín M.",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
